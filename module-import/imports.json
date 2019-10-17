@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "http/": "https://deno.land/std@v0.19.0/http/",
+    "adesso/": "https://gist.githubusercontent.com/kryz81/3c9804a10166cd0f5101313815ef8cc3/raw/a70326f21672e065b975832d5597f88bd3e87e10/"
+  }
+}
