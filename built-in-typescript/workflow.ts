@@ -3,10 +3,9 @@ export interface WorkflowMessage {
   msg?: string;
 }
 
-const messages = {
+const messages: { [key: number]: string } = {
   10: "Report creation",
-  20: "Report error",
-  30: "Report log"
+  20: "Report error"
 };
 
 export const createWorkflowMessage = (status: number): WorkflowMessage => ({
