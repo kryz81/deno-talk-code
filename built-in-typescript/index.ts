@@ -9,3 +9,5 @@ function foo(a: number) {
     return a + a;
   }
 }
+
+const b = 10;
