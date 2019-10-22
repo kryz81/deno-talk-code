@@ -10,4 +10,4 @@ function foo(a: number) {
   }
 }
 
-const b = 10;
+const b = 15;
